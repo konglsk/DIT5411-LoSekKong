@@ -9,7 +9,7 @@ This project develops, optimizes, and compares multiple Convolutional Neural Net
 ---
 
 ## 2. Dataset & Train/Test Split
-* **Source**: [AI-FREE-Team Traditional Chinese Handwriting Dataset (Full 13,065 Characters)]([https://github.com](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/README.md))
+* **Source**: [AI-FREE-Team Traditional Chinese Handwriting Dataset (Full 13,065 Characters)]([https://github.com](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset/blob/master/README.md)
 * **Total Classes**: 13,065 Traditional Chinese characters (`684,677` grayscale handwriting images in total).
 * **Strict Splitting Strategy (Zero Data Leakage)**:
   * **Training Set**: First **40 images** per character (`522,127` raw images).
